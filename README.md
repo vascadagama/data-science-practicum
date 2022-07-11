@@ -8,3 +8,7 @@ Contains study projects for the Data Scientist course
 | [Realty market analysis]() | Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments | Internet services. Ad platforms. | *Pandas.* *Matplotlib.* *Data visualization.* *Data prepreprocessing.*|
 | [Best telecom tariff ]()| Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff | Telecom |*Pandas.* *Matplotlib.* *NumPy.* *SciPy* *Hypotheses test.* |
 | [Computer games research]()| Identification of patterns that determine success of computer games. | Online stores. | *Pandas.* *Matplotlib.* *Seaborn.* *NumPy.* *SciPy.* *Hypotheses test.*|
+| [Classification of telecom subscribers]() | Build a system that can analyze customer behavior and offer users one of the new tariffs. | Telecom | *Pandas.* *Matplotlib.* *Scikit-learn* |
+| [Customer churn forecast]() | Build a system that can analyze customer behavior and offer users one of the new tariffs. | Telecom | *Pandas.* *Matplotlib.* *Scikit-learn* | Prediction of customer churn based on the historica data. | Banking | *Pandas.* *Matplotlib.* *Scikit-learn*|
+| [Most profitable oil production region forecast]()| Build a model to determine the region where mining will bring the most profit. | Mining companies | *Pandas.* *Scikit-learn.* *Bootstrap.* |
+||
