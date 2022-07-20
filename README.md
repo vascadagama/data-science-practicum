@@ -13,7 +13,7 @@ Contains study projects for the Data Scientist course
 | [8 .Forecasting of most profitable oil production region]()| Build a model to determine the region where mining will bring the most profit. | Mining companies | *Pandas.* *Scikit-learn.* *Bootstrap.* |
 | [9. Research of gold refining process]()|Predict gold concentration during the gold refining process|Industry|*Pandas.* *Scikit-learn.* *Matplotlib.* *Numpy.*|
 | [10. Customer data protection]() |Personal data anonimization model|Banking. Internet services. Investment. Telecom|*Python.* *Numpy.* *Scikit-learn.*|
-| [11. Car price forecasting model] ()|Development of recommended car price prediction system|Internet services. Online stores. Business|*Python.* *Pandas.* *Lightgbm.*|
+| [11. Car price forecasting model]()|Development of recommended car price prediction system|Internet services. Online stores. Business|*Python.* *Pandas.* *Lightgbm.*|
 | [12. Forecasting the number of taxi orders for the next hour]()|Development of orders volume prediction system |*Business.* *Internet services.* *Startups.*|*Python.* *Pandas.* *Scikit-learn.* *Statsmodels*|
 | [13. Training of comment classification model]()|Determine toxicity of comments.|Internet services. Startups.|*Python.* *Pandas*. *BERT.* *nltk.* *tf-idf*|
-| [14. Steelmaking process optimization.]()|To optimize manufacturing costs, build a model which predicts the temperature of steel as well as importance of factors which influence on it.|
+| [14. Steelmaking process optimization](steelmaking_optimization)|To optimize manufacturing costs, build a model which predicts the temperature of steel as well as importance of factors which influence on it.|
