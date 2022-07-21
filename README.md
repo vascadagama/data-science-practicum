@@ -16,4 +16,4 @@ Contains study projects for the Data Scientist course
 | [11. Car price forecasting model]()|Development of recommended car price prediction system|Internet services. Online stores. Business|*Python.* *Pandas.* *Lightgbm.*|
 | [12. Forecasting the number of taxi orders for the next hour]()|Development of orders volume prediction system |*Business.* *Internet services.* *Startups.*|*Python.* *Pandas.* *Scikit-learn.* *Statsmodels*|
 | [13. Training of comment classification model]()|Determine toxicity of comments.|Internet services. Startups.|*Python.* *Pandas*. *BERT.* *nltk.* *tf-idf*|
-| [14. Steelmaking process optimization](steelmaking_optimization)|To optimize manufacturing costs, build a model which predicts the temperature of steel as well as importance of factors which influence on it.|*Python.* *Pandas.* *Scikit-learn.* *Numpy.* *Catboost.* *Seaborn*|
+| [14. Steelmaking process optimization](steelmaking_optimization)|To optimize manufacturing costs, build a model which predicts the temperature of steel as well as importance of factors which influence on it.| Industry |*Python.* *Pandas.* *Scikit-learn.* *Numpy.* *Catboost.* *Seaborn*|
