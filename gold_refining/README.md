@@ -12,4 +12,5 @@ You need to:
 2. Conduct exploratory data analysis;
 3. Build and train the model.
 
-To complete the project, refer to *pandas*, *matplotlib* and *sklearn.* libraries.
+## Tools/Libraries
+*Python,* *Pandas,* *Scikit-learn,* *Matplotlib,* *Seaborn,* *Numpy*
