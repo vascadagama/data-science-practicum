@@ -22,3 +22,6 @@ Plan:
 3. Hypothesis testing:
     - the average revenue of users of the "Ultra" and "Smart" tariffs differ;
     - the average revenue of users from Moscow differs from the revenue of users from other regions.
+
+## Tool/Libraries
+Python,* *Pandas,* *Matplotlib,* *NumPy,* *SciPy,* *Hypotheses test* 
