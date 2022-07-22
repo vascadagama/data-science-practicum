@@ -11,3 +11,6 @@ The study plan will include the following steps:
     - Study of the ranges of values of various parameters, median and outliers
     - Research of correlations between the price and parameters of apartments
     - Identification of the center and research of announcements in the central part of the city
+
+## Tools/Libraries
+*Python,* *Pandas,* *Matplotlib,* *Data visualization,* *Data prepreprocessing*
