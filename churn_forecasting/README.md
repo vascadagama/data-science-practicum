@@ -12,4 +12,4 @@ Data source: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
 ## Tools/Libraries
 
-*Python,* *Pandas,* *Matplotlib,* *Scikit-learn*
+*Python,* *Pandas,* *Matplotlib,* *Scikit-learn*, *Upsampling/Downsampling*
