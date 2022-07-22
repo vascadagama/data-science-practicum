@@ -16,3 +16,6 @@ Build a model with a quality metric *F1* of at least 0.75.
 **Data Description**
 
 The data is in the `toxic_comments.csv` file. The *text* column contains the text of the comment, and *toxic* is the target attribute.
+
+# Tools/Libraries
+*Python,* *Pandas*, *BERT,* *nltk,* *tf-idf*
