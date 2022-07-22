@@ -13,3 +13,6 @@ You need:
 
 
 The data is in the `taxi.csv` file. The number of orders is in the `num_orders` column.
+
+## Tools/Libraries
+*Python, Pandas, Scikit-learn, Catboost, pmdarina, fbprophet, Statsmodels*
