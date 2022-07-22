@@ -7,3 +7,7 @@ You need to protect the data so that the quality of the machine learning models 
 The dataset is located in the /datasets/insurance.csv file.
 - **Features:** gender, age and salary of the insured, the number of members of his family.
 - Target attribute: the number of insurance payments to the client over the past 5 years.
+
+## Tools/Libraries
+
+*Python, Numpy, Scikit-learn*
