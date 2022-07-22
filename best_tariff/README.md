@@ -1,4 +1,4 @@
-# Определение перспективного тарифа для телеком-компании
+# Determine prospective tariff plan for the telecom company
 
 The federal operator "Megaline" offers customers two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff brings in more money.
 We have a small sample of 500 subscribers for 2018: who they are, where they are from, what tariff they use, how many calls and messages each user sent. It is necessary to analyze the behavior of customers and draw conclusions about the costs of subscribers at different tariffs, determine how the average revenue per subscriber differs depending on the tariff, as well as the region.
