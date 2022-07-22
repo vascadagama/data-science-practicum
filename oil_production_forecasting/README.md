@@ -17,3 +17,7 @@ Conditions of the problem:
 - The budget for the development of wells in the region is 10 billion rubles.
 - At current prices, one barrel of raw materials brings 450 rubles of income. The income from each unit of the product is 450 thousand rubles, since the volume is indicated in thousands of barrels.
 - After assessing the risks, you should leave only those regions in which the probability of losses is less than 2.5%. Among them, choose the region with the highest average profit
+
+## Tools/Libraries
+
+*Python,* *Pandas,* *Scikit-learn,* *Bootstrap*
