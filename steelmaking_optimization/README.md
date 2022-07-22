@@ -17,3 +17,6 @@ Then the molten steel is sent to finish the metal or enters the continuous casti
 - data_temp.csv - temperature measurement results;
 - data_wire.csv - data on wire materials (volume);
 - data_wire_time.csv - data about wire materials (time).
+
+## Tools/Libraries
+*Python, Pandas, Scikit-learn, Numpy, Catboost, Seaborn*
