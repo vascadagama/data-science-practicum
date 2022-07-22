@@ -27,3 +27,6 @@ Following is important for the customer:
 - PostalCode - postal code of the owner of the profile (user)
 - LastSeen - date of last user activity
 - Target attribute Price - price (EUR)
+
+## Tools/Libraries
+* Python, Pandas, Lightgbm, Catboost *
