@@ -1,33 +1,36 @@
-# Исследование продаж компьютерных игр
+# PC Game Sales Study
 
-Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Нам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании для интернет-магазина компьютерных игр на будущий год.
+Historical game sales data, user and expert ratings, genres and platforms (such as Xbox or PlayStation) are available from public sources. We need to identify the patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns for the online store of computer games for the next year.
 
-Описание полей в файле /datasets/games.csv:
-- Name — название игры
-- Platform — платформа
-- Year_of_Release — год выпуска
-- Genre — жанр игры
-- NA_sales — продажи в Северной Америке (миллионы проданных копий)
-- EU_sales — продажи в Европе (миллионы проданных копий)
-- JP_sales — продажи в Японии (миллионы проданных копий)
-- Other_sales — продажи в других странах (миллионы проданных копий)
-- Critic_Score — оценка критиков (максимум 100)
-- User_Score — оценка пользователей (максимум 10)
-- Rating — рейтинг от организации ESRB (англ. Entertainment Software Rating Board). Эта ассоциация определяет рейтинг компьютерных игр и присваивает им подходящую возрастную категорию.
+Description of the fields in the /datasets/games.csv file:
+- Name - the name of the game
+- Platform - platform
+- Year_of_Release - year of release
+- Genre - game genre
+- NA_sales - sales in North America (millions of copies sold)
+- EU_sales - sales in Europe (millions of copies sold)
+- JP_sales - sales in Japan (millions of copies sold)
+- Other_sales - sales in other countries (millions of copies sold)
+- Critic_Score - Critics score (maximum 100)
+- User_Score - user rating (maximum 10)
+- Rating — rating from the ESRB (Entertainment Software Rating Board). This association determines the rating of computer games and assigns them an appropriate age category.
 
-Состав исследования:
-1. Подготовка данных:
-    - Исправление типов и пропусков в значениях;
-    - Рассчет суммарных продаж.
-2. Исследовательский анализ данных:
-    - Анализ продаж по платформам, определение актуальных платформ и актуального временного периода, данные из которого имеет смысл учитывать;
-    - Анализ изменения прибыли по платформам, выявление потенциально прибыльных платформ; 
-    - Анализ влияния рейтинга игр на продажи внутри популярных платформ;
-    - Анализ распределения игр по жанрам, выявление прибыльных жанров.
-3. Портрет пользователя по регионам:
-    - Самые популярные платформы;
-    - Самые популярные жанры;
-    - Влияние рейтинга ESRB на продажи в отдельном регионе.
-5. Проверка гипотез:
-    - Средние пользовательские рейтинги платформ Xbox One и PC одинаковые;
-    - Средние пользовательские рейтинги жанров Action и Sports разные.
+Composition of the study:
+1. Data preparation:
+    - Correction of types and gaps in values;
+    - Calculation of total sales.
+2. Exploratory data analysis:
+    - Analysis of sales by platform, determination of relevant platforms and the current time period, data from which it makes sense to take into account;
+    - Analysis of profit changes by platforms, identification of potentially profitable platforms;
+    - Analysis of the impact of game ratings on sales within popular platforms;
+    - Analysis of the distribution of games by genre, identifying profitable genres.
+3. User portrait by region:
+    - The most popular platforms;
+    - The most popular genres;
+    - The impact of the ESRB rating on sales in a particular region.
+5. Hypothesis testing:
+    - The average user ratings of the Xbox One and PC platforms are the same;
+    - Average user ratings for Action and Sports genres are different.
+    
+   ## Tools/Libraries
+   *Python, Pandas, Matplotlib, Seaborn, NumPy, SciPy, Hypotheses test*
