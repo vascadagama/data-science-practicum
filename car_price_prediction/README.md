@@ -29,4 +29,4 @@ Following is important for the customer:
 - Target attribute Price - price (EUR)
 
 ## Tools/Libraries
-* Python, Pandas, Lightgbm, Catboost *
+*Python, Pandas, Lightgbm, Catboost*
